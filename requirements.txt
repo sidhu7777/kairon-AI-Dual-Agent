@@ -1,6 +1,7 @@
-langchain
 langgraph
-openai
+langchain-openai
+langchain-community
+langchain-core
+langchain
 tavily-python
 python-dotenv
-langchain-community

@@ -1,0 +1,10 @@
+{
+    "summary_text": "- LangChain is a Python framework designed for AI application development, focusing on real-time data processing and integration with large language models (LLMs)\n- LangChain streamlines the process of creating generative AI application interfaces and enables developers to easily switch between different LLMs\n- LangChain is an open source orchestration framework available in Python and Javascript libraries for building LLM-driven applications like chatbots and virtual agents\n- LangChain simplifies the programming of LLM applications through abstraction, representing complex processes as named components\n- LangChain facilitates the integration of LLMs into applications for tasks such as document analysis, chatbots, and code analysis",
+    "original_links": [
+        "https://www.datastax.com/guides/what-is-langchain",
+        "https://www.techtarget.com/searchenterpriseai/definition/LangChain",
+        "https://www.ibm.com/think/topics/langchain",
+        "https://en.wikipedia.org/wiki/LangChain",
+        "https://python.langchain.com/docs/introduction/"
+    ]
+}
