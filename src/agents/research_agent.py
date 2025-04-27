@@ -1,7 +1,8 @@
 # src/agents/research_agent.py
 
 from langchain.agents import tool
-from utils.config import tavily_client  #  import ready TavilyClient instance
+from utils.config import tavily_client
+
 
 @tool
 def research_agent(input_query: str) -> dict:

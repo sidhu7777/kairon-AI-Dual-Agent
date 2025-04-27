@@ -18,10 +18,11 @@ def drafting_agent(validated_text: str, original_links: List[str], answer_type: 
     if answer_type == "short":
         prompt = f"""
         You are an expert research assistant.
-        Write a short, concise 1-2 sentence answer based on the following validated content.
-        Then list the sources at the end.
+    
+        IMPORTANT: Limit your response to ONLY 2-3 sentences. Do not exceed this limit.
 
-        You MUST only use the provided validated content to draft the answer. 
+        Based on the following validated content, draft a short, very concise answer in 2-3 sentences maximum.
+        Then, list the sources at the end on a new line. 
 
         Validated Content:
         {validated_text}
