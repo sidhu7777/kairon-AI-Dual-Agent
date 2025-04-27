@@ -115,7 +115,7 @@ OPENAI_API_KEY=your-openai-api-key
 
 ## How to Run
 
-Execute the main script:
+Execute the main script :
 
 ```bash
 python src/run.py
